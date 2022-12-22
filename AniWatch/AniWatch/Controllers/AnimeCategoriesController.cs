@@ -38,7 +38,7 @@ namespace AniWatch.Controllers
             var animeCategories = await _context.AnimeCategories
                 .Include(a => a.Anime)
                 .Include(a => a.Category)
-                .FirstOrDefaultAsync(m => m.AnimeId == id);
+                .FirstOrDefaultAsync(m => m.AnimeCategoryId == id);
             if (animeCategories == null)
             {
                 return NotFound();
@@ -75,12 +75,9 @@ namespace AniWatch.Controllers
         */
 
 
-        // GET: AnimeCategories/Create
         public IActionResult Create()
         {
-            //listo te gjithe studentet
             List<Anime> animes = this._context.Animes.ToList();
-            //listo te gjitha lendet
             List<Category> categories = this._context.Categories.ToList();
             AnimeCategoryViewModel model = new AnimeCategoryViewModel();
             model.Animes = animes;
@@ -88,9 +85,6 @@ namespace AniWatch.Controllers
             return View(model);
         }
 
-        // POST: AnimeCategories/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(AnimeCategoryViewModel model)
@@ -106,12 +100,7 @@ namespace AniWatch.Controllers
             this._context.AnimeCategories.Add(animeCateogry);
             this._context.SaveChanges();
 
-            /*if (ModelState.IsValid)
-            {
-                _context.Add(animeCategories);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
-            }*/
+            return RedirectToAction(nameof(Index));
             return View();
         }
         // GET: AnimeCategories/Edit/5
@@ -132,14 +121,11 @@ namespace AniWatch.Controllers
             return View(animeCategories);
         }
 
-        // POST: AnimeCategories/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("AnimeId,CategoryId")] AnimeCategories animeCategories)
         {
-            if (id != animeCategories.AnimeId)
+            if (id != animeCategories.AnimeCategoryId)
             {
                 return NotFound();
             }
@@ -153,7 +139,7 @@ namespace AniWatch.Controllers
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!AnimeCategoriesExists(animeCategories.AnimeId))
+                    if (!AnimeCategoriesExists(animeCategories.AnimeCategoryId))
                     {
                         return NotFound();
                     }
@@ -180,7 +166,7 @@ namespace AniWatch.Controllers
             var animeCategories = await _context.AnimeCategories
                 .Include(a => a.Anime)
                 .Include(a => a.Category)
-                .FirstOrDefaultAsync(m => m.AnimeId == id);
+                .FirstOrDefaultAsync(m => m.AnimeCategoryId == id);
             if (animeCategories == null)
             {
                 return NotFound();
@@ -210,7 +196,7 @@ namespace AniWatch.Controllers
 
         private bool AnimeCategoriesExists(int id)
         {
-          return _context.AnimeCategories.Any(e => e.AnimeId == id);
+          return _context.AnimeCategories.Any(e => e.AnimeCategoryId == id);
         }
     }
 }

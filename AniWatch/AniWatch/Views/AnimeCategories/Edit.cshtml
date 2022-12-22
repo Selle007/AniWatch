@@ -1,5 +1,4 @@
-﻿@model AniWatch.Models.AnimeCategories
-
+﻿@model AniWatch.ViewModels.AnimeCategoryViewModel
 @{
     ViewData["Title"] = "Edit";
     Layout = "~/Views/Shared/_Layout.cshtml";
@@ -13,9 +12,22 @@
     <div class="col-md-4">
         <form asp-action="Edit">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <input type="hidden" asp-for="AnimeCategoryId" />
-            <input type="hidden" asp-for="AnimeId" />
-            <input type="hidden" asp-for="CategoryId" />
+            
+            <div class="form-group">
+                <select asp-for="AnimeId" class="form-select form-control">
+                    @foreach(Anime anime in Model.Animes){
+                        <option value="@anime.AnimeId">@anime.AnimeName</option>
+                    }
+                </select>
+            </div>
+            <div class="form-group">
+                <select asp-for="CategoryId" class="form-select form-control">
+                    @foreach(Category category in Model.Categories){
+                        <option value="@category.CategoryId">@category.CategoryName</option>
+                    }
+                </select>
+            </div>
+            
             <div class="form-group">
                 <input type="submit" value="Save" class="btn btn-primary" />
             </div>

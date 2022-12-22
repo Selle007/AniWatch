@@ -1,4 +1,4 @@
-﻿@model AniWatch.Models.AnimeCategories
+﻿@model AniWatch.ViewModels.AnimeCategoryViewModel
 
 @{
     ViewData["Title"] = "Create";
@@ -14,18 +14,23 @@
         <form asp-action="Create">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
-                <label asp-for="AnimeCategoryId" class="control-label"></label>
-                <input asp-for="AnimeCategoryId" class="form-control" />
-                <span asp-validation-for="AnimeCategoryId" class="text-danger"></span>
+                <label class="control-label">Select Anime</label>
+                <select asp-for="AnimeId" class="form-select form-control">
+                    @foreach(Anime anime in Model.Animes){
+                        <option value="@anime.AnimeId">@anime.AnimeName</option>
+                    }
+                </select>
+                   
             </div>
             <div class="form-group">
-                <label asp-for="AnimeId" class="control-label"></label>
-                <select asp-for="AnimeId" class ="form-control" asp-items="ViewBag.AnimeId"></select>
+                <label class="control-label">Select Category</label>
+                <select asp-for="CategoryId" class="form-select form-control">
+                    @foreach(Category category in Model.Categories){
+                        <option value="@category.CategoryId">@category.CategoryName</option>
+                    }
+                </select>
             </div>
-            <div class="form-group">
-                <label asp-for="CategoryId" class="control-label"></label>
-                <select asp-for="CategoryId" class ="form-control" asp-items="ViewBag.CategoryId"></select>
-            </div>
+           
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
             </div>

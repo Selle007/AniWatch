@@ -10206,11 +10206,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Memo\\Desktop\\New Proj\\AniWatch\\AniWatch\\AniWatch.csproj",
+      "projectUniqueName": "C:\\Users\\Memo\\Documents\\GitHub\\AniWatch\\AniWatch\\AniWatch\\AniWatch.csproj",
       "projectName": "AniWatch",
-      "projectPath": "C:\\Users\\Memo\\Desktop\\New Proj\\AniWatch\\AniWatch\\AniWatch.csproj",
+      "projectPath": "C:\\Users\\Memo\\Documents\\GitHub\\AniWatch\\AniWatch\\AniWatch\\AniWatch.csproj",
       "packagesPath": "C:\\Users\\Memo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Memo\\Desktop\\New Proj\\AniWatch\\AniWatch\\obj\\",
+      "outputPath": "C:\\Users\\Memo\\Documents\\GitHub\\AniWatch\\AniWatch\\AniWatch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Memo\\AppData\\Roaming\\NuGet\\NuGet.Config",

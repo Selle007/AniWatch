@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TV3H66cApYFO7obSc46y+YjSGr8J1TlnZexUgA/Ku6UaMGo/7z4nUUjVP9D2roju0KWtCtJ5y6IZjrvQH0r+cw==",
+  "dgSpecHash": "OHoe8Plr8hywhEJmot3AEhQY3wIC7+1fhTkE/tnGBS+HYxK4T9SzDn033bXMgYCO9/8nJIdSjNSoEzFI6zSHFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Memo\\Desktop\\New Proj\\AniWatch\\AniWatch\\AniWatch.csproj",
+  "projectFilePath": "C:\\Users\\Memo\\Documents\\GitHub\\AniWatch\\AniWatch\\AniWatch\\AniWatch.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Memo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Memo\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
