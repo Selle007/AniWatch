@@ -20,6 +20,7 @@ namespace AniWatch.Data
         public DbSet<Anime>? Animes { get; set; }
         public DbSet<AnimeCategories> AnimeCategories { get; set; }
         public DbSet<Manga> Mangas { get; set; }
+        public DbSet<Episode>? Episodes { get; set; }
 
 
 
