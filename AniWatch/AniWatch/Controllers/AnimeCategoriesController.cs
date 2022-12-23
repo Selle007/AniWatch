@@ -46,35 +46,7 @@ namespace AniWatch.Controllers
 
             return View(animeCategories);
         }
-        /*
-        // GET: AnimeCategories/Create
-        public IActionResult Create()
-        {
-            ViewData["AnimeId"] = new SelectList(_context.Animes, "AnimeId", "AnimeId");
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "CategoryId", "CategoryId");
-            return View();
-        }
-
-        // POST: AnimeCategories/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("AnimeId,CategoryId")] AnimeCategories animeCategories)
-        {
-            if (ModelState.IsValid)
-            {
-                _context.Add(animeCategories);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
-            }
-            ViewData["AnimeId"] = new SelectList(_context.Animes, "AnimeId", "AnimeId", animeCategories.AnimeId);
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "CategoryId", "CategoryId", animeCategories.CategoryId);
-            return View(animeCategories);
-        }
-        */
-
-
+        
         public IActionResult Create()
         {
             List<Anime> animes = this._context.Animes.ToList();
@@ -104,55 +76,27 @@ namespace AniWatch.Controllers
             return View();
         }
         // GET: AnimeCategories/Edit/5
-        public async Task<IActionResult> Edit(int? id)
+        public async Task<IActionResult> Edit(int id)
         {
-            if (id == null || _context.AnimeCategories == null)
-            {
-                return NotFound();
-            }
-
-            var animeCategories = await _context.AnimeCategories.FindAsync(id);
-            if (animeCategories == null)
-            {
-                return NotFound();
-            }
-            ViewData["AnimeId"] = new SelectList(_context.Animes, "AnimeId", "AnimeId", animeCategories.AnimeId);
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "CategoryId", "CategoryId", animeCategories.CategoryId);
-            return View(animeCategories);
+            var animeCategory = _context.AnimeCategories.Find(id);
+            var anime = _context.Animes.ToList();
+            var category = _context.Categories.ToList();
+            var model = new AnimeCategoryViewModel { Animes = anime, Categories = category, AnimeCategories = animeCategory };
+            return View(model);
         }
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("AnimeId,CategoryId")] AnimeCategories animeCategories)
+        public async Task<IActionResult> Edit(int id, AnimeCategoryViewModel model)
         {
-            if (id != animeCategories.AnimeCategoryId)
-            {
-                return NotFound();
-            }
+            
+                var animeCategory = _context.AnimeCategories.Find(id);
+                animeCategory.AnimeId = model.AnimeCategories.AnimeId;
+                animeCategory.CategoryId = model.AnimeCategories.CategoryId;
 
-            if (ModelState.IsValid)
-            {
-                try
-                {
-                    _context.Update(animeCategories);
-                    await _context.SaveChangesAsync();
-                }
-                catch (DbUpdateConcurrencyException)
-                {
-                    if (!AnimeCategoriesExists(animeCategories.AnimeCategoryId))
-                    {
-                        return NotFound();
-                    }
-                    else
-                    {
-                        throw;
-                    }
-                }
-                return RedirectToAction(nameof(Index));
-            }
-            ViewData["AnimeId"] = new SelectList(_context.Animes, "AnimeId", "AnimeId", animeCategories.AnimeId);
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "CategoryId", "CategoryId", animeCategories.CategoryId);
-            return View(animeCategories);
+                _context.SaveChanges();
+                return RedirectToAction("Index");
+            
         }
 
         // GET: AnimeCategories/Delete/5
