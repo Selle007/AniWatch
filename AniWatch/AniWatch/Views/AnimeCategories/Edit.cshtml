@@ -1,0 +1,47 @@
+﻿@model AniWatch.ViewModels.AnimeCategoryViewModel
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Edit</h1>
+
+<h4>AnimeCategories</h4>
+<hr />
+@using (Html.BeginForm())
+{@Html.AntiForgeryToken()
+    <div class="row">
+        <div class="col-md-4">
+            <div class="form-group">
+                <label class="control-label">Anime Name</label>
+                
+                    @Html.DropDownListFor(model => model.AnimeCategories.AnimeId, new SelectList(Model.Animes, "AnimeId", "AnimeName"))
+               
+                
+            </div>
+            <div class="form-group">
+                <label class="control-label">Category Name</label>
+            @Html.DropDownListFor(model => model.AnimeCategories.CategoryId, new SelectList(Model.Categories, "CategoryId", "CategoryName"))
+            </div>
+            <div class="form-group">
+            
+                    <input type="submit" value="Save" class="btn btn-primary" />
+            
+            </div>
+        </div>
+    </div>
+}
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+
+
+<div class="form-group">
+                
+            </div>
+            <div class="form-group">
+                
