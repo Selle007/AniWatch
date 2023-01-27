@@ -1,0 +1,82 @@
+﻿@model IEnumerable<Anime_Streaming_Platform.Models.Episode>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Dashboard.cshtml";
+}
+
+
+
+
+<div class="container-xl">
+	<div class="table-responsive">
+		<div class="table-wrapper">
+			<div class="table-title">
+				<div class="row">
+					<div class="col-sm-6">
+						<h2>Manage <b>Episodes</b></h2>
+					</div>
+					<div class="col-sm-6">
+						<a href="~/Admin/Episodes/Create" class="btn btn-success"><i class="material-icons">&#xE147;</i> <span>Add Episode</span></a>
+					
+					</div>
+				</div>
+			</div>
+			<table class="table table-striped table-hover" id="table">
+				<thead>
+					<tr>
+						<th>
+							<span class="custom-checkbox">
+								<input type="checkbox" id="selectAll">
+								<label for="selectAll"></label>
+							</span>
+						</th>
+							<th>
+							@Html.DisplayNameFor(model => model.EpisodeNumber)
+							</th>
+							<th>
+							@Html.DisplayNameFor(model => model.EpisodeTitle)
+							</th>
+							<th>
+							@Html.DisplayNameFor(model => model.EpisodeUrl)
+							</th>
+							<th>
+							@Html.DisplayNameFor(model => model.Anime)
+							</th>
+						<th>Actions</th>
+					</tr>
+				</thead>
+				<tbody>
+					@foreach (var item in Model) {
+					<tr>
+						<td>
+							<span class="custom-checkbox">
+								<input type="checkbox" id="checkbox1" name="options[]" value="1">
+								<label for="checkbox1"></label>
+							</span>
+						</td>
+						<td>
+						@Html.DisplayFor(modelItem => item.EpisodeNumber)
+						</td>
+						<td>
+						@Html.DisplayFor(modelItem => item.EpisodeTitle)
+						</td>
+						<td>
+						@Html.DisplayFor(modelItem => item.EpisodeUrl)
+						</td>
+						<td>
+						@Html.DisplayFor(modelItem => item.Anime.AnimeId)
+						</td>
+						<td>
+							<a href="~/Admin/Episodes/Edit/@item.EpisodeId" class="edit"><i class="material-icons" data-toggle="tooltip" title="Edit">&#xE254;</i></a>
+							<a href="~/Admin/Episodes/Details/@item.EpisodeId" class="details"><i class="material-icons" data-toggle="tooltip" title="Details">&#xf05a;</i></a>
+							<a href="~/Admin/Episodes/Delete/@item.EpisodeId" class="delete"><i class="material-icons" data-toggle="tooltip" title="Delete">&#xE872;</i></a>
+						</td>
+					</tr>
+				}
+				</tbody>
+			</table>
+			
+		</div>
+	</div>        
+</div>

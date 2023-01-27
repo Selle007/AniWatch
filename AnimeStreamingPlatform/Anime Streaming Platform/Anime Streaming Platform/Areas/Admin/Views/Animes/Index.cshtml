@@ -1,0 +1,75 @@
+﻿@model IEnumerable<Anime_Streaming_Platform.Models.Anime>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Dashboard.cshtml";
+}
+
+
+
+<div class="container-xl">
+	<div class="table-responsive">
+		<div class="table-wrapper">
+			<div class="table-title">
+				<div class="row">
+					<div class="col-sm-6">
+						<h2>Manage <b>Anime</b></h2>
+					</div>
+					<div class="col-sm-6">
+						<a href="~/Admin/Animes/Create" class="btn btn-success"><i class="material-icons">&#xE147;</i> <span>Add Anime</span></a>
+					
+					</div>
+				</div>
+			</div>
+			<table class="table table-striped table-hover" id="table">
+				<thead>
+					<tr>
+						<th>
+							<span class="custom-checkbox">
+								<input type="checkbox" id="selectAll">
+								<label for="selectAll"></label>
+							</span>
+						</th>
+						<th>@Html.DisplayNameFor(model => model.AnimeName)</th>
+						<th>@Html.DisplayNameFor(model => model.AnimeDescription)</th>
+						<th>@Html.DisplayNameFor(model => model.AnimeStudio)</th>
+						<th>@Html.DisplayNameFor(model => model.Image)</th>
+						<th>Actions</th>
+					</tr>
+				</thead>
+				<tbody>
+					@foreach (var item in Model) {
+					<tr>
+						<td>
+							<span class="custom-checkbox">
+								<input type="checkbox" id="checkbox1" name="options[]" value="1">
+								<label for="checkbox1"></label>
+							</span>
+						</td>
+						
+						<td>
+							@Html.DisplayFor(modelItem => item.AnimeName)
+						</td>
+						<td>
+							@Html.DisplayFor(modelItem => item.AnimeDescription)
+						</td>
+						<td>
+							@Html.DisplayFor(modelItem => item.AnimeStudio)
+						</td>
+						<td>
+							<a href="~/Admin/Animes/UploadAnimeImage/@item.AnimeId" class="uploadImage"><i class="material-icons" data-toggle="tooltip" title="UploadImage">&#xf1c5;</i></a>
+						</td>
+						<td>
+							
+							<a href="~/Admin/Animes/Edit/@item.AnimeId" class="edit"><i class="material-icons" data-toggle="tooltip" title="Edit">&#xE254;</i></a>
+							<a href="~/Admin/Animes/Details/@item.AnimeId" class="details"><i class="material-icons" data-toggle="tooltip" title="Details">&#xf05a;</i></a>
+							<a href="~/Admin/Animes/Delete/@item.AnimeId" class="delete"><i class="material-icons" data-toggle="tooltip" title="Delete">&#xE872;</i></a>
+						</td>
+					</tr>
+				}
+				</tbody>
+			</table>
+			
+		</div>
+	</div>        
+</div>

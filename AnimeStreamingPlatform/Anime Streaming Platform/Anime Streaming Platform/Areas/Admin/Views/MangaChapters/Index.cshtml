@@ -1,0 +1,84 @@
+﻿@model IEnumerable<Anime_Streaming_Platform.Models.MangaChapter>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Dashboard.cshtml";
+}
+
+
+
+<div class="container-xl">
+	<div class="table-responsive">
+		<div class="table-wrapper">
+			<div class="table-title">
+				<div class="row">
+					<div class="col-sm-6">
+						<h2>Manage <b>Manga Chapters</b></h2>
+					</div>
+					<div class="col-sm-6">
+						<a href="~/Admin/MangaChapters/Create" class="btn btn-success"><i class="material-icons">&#xE147;</i> <span>Add Chapter</span></a>
+					
+					</div>
+				</div>
+			</div>
+			<table class="table table-striped table-hover" id="table">
+				<thead>
+					<tr>
+						<th>
+							<span class="custom-checkbox">
+								<input type="checkbox" id="selectAll">
+								<label for="selectAll"></label>
+							</span>
+						</th>
+						<th>
+						@Html.DisplayNameFor(model => model.MangaChapterName)
+						</th>
+						<th>
+						@Html.DisplayNameFor(model => model.MangaChapterNumber)
+						</th>
+						<th>
+						@Html.DisplayNameFor(model => model.Manga)
+						</th>
+						<th>
+						@Html.DisplayNameFor(model => model.MangaChapterURL)
+						</th>
+						<th>Actions</th>
+					</tr>
+				</thead>
+				<tbody>
+					@foreach (var item in Model) {
+					<tr>
+						<td>
+							<span class="custom-checkbox">
+								<input type="checkbox" id="checkbox1" name="options[]" value="1">
+								<label for="checkbox1"></label>
+							</span>
+						</td>
+						
+						<td>
+						@Html.DisplayFor(modelItem => item.MangaChapterName)
+						</td>
+						<td>
+						@Html.DisplayFor(modelItem => item.MangaChapterNumber)
+						</td>
+						<td>
+						@Html.DisplayFor(modelItem => item.Manga.MangaId)
+						</td>
+						<td>
+						@Html.DisplayFor(modelItem => item.MangaChapterURL)
+						</td>
+						<td>
+							
+							<a href="~/Admin/MangaChapters/Edit/@item.MangaChapterId" class="edit"><i class="material-icons" data-toggle="tooltip" title="Edit">&#xE254;</i></a>
+							<a href="~/Admin/MangaChapters/Details/@item.MangaChapterId" class="details"><i class="material-icons" data-toggle="tooltip" title="Details">&#xf05a;</i></a>
+							<a href="~/Admin/MangaChapters/Delete/@item.MangaChapterId" class="delete"><i class="material-icons" data-toggle="tooltip" title="Delete">&#xE872;</i></a>
+						</td>
+					</tr>
+				}
+				</tbody>
+			</table>
+			
+		</div>
+	</div>        
+</div>
+

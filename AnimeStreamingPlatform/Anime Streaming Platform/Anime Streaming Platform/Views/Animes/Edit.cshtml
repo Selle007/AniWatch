@@ -1,0 +1,47 @@
+﻿@model Anime_Streaming_Platform.Models.Anime
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Dashboard.cshtml";
+}
+
+<h1>Edit</h1>
+
+<h4>Anime</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="AnimeId" />
+            <div class="form-group">
+                <label asp-for="AnimeName" class="control-label"></label>
+                <input asp-for="AnimeName" class="form-control" />
+                <span asp-validation-for="AnimeName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AnimeDescription" class="control-label"></label>
+                <input asp-for="AnimeDescription" class="form-control" />
+                <span asp-validation-for="AnimeDescription" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AnimeStudio" class="control-label"></label>
+                <input asp-for="AnimeStudio" class="form-control" />
+                <span asp-validation-for="AnimeStudio" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Image" class="control-label"></label>
+                <input asp-for="Image" class="form-control" />
+                <span asp-validation-for="Image" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
