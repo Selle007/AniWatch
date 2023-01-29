@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Anime_Streaming_Platform.Data;
 using Anime_Streaming_Platform.Models;
+using Anime_Streaming_Platform.ViewModels;
 
 namespace Anime_Streaming_Platform.Areas.Admin.Controllers
 {
@@ -49,16 +50,18 @@ namespace Anime_Streaming_Platform.Areas.Admin.Controllers
         // GET: Mangas/Create
         public IActionResult Create()
         {
-            ViewData["AnimeId"] = new SelectList(_context.Animes, "AnimeId", "AnimeId");
-            return View();
+            List<Anime> animes = this._context.Animes.ToList(); ;
+            MangaAnimeViewModel model = new MangaAnimeViewModel();
+            model.Animes = animes;
+            return View(model);
         }
 
         // POST: Mangas/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
-        [HttpPost]
+      /*  [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("MangaId,MangaName,MangaDesc,AnimeId")] Manga manga)
+        public async Task<IActionResult> Create([Bind("MangaId,MangaName,MangaDesc,AnimeName")] Manga manga)
         {
             if (ModelState.IsValid)
             {
@@ -66,25 +69,37 @@ namespace Anime_Streaming_Platform.Areas.Admin.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["AnimeId"] = new SelectList(_context.Animes, "AnimeId", "AnimeId", manga.AnimeId);
+            ViewData["AnimeId"] = new SelectList(_context.Animes, "AnimeId", "AnimeName", manga.AnimeId);
             return View(manga);
         }
+        */
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Create(MangaAnimeViewModel model, [Bind("MangaId,MangaName,MangaDesc,AnimeName")] Manga manga)
+        {
+            var anime = this._context.Animes.Find(model.AnimeId);
+
+
+            manga.Anime = anime;
+
+
+
+            this._context.Mangas.Add(manga);
+            this._context.SaveChanges();
+
+            return RedirectToAction(nameof(Index));
+            return View();
+        }
+
 
         // GET: Mangas/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
-            if (id == null || _context.Mangas == null)
-            {
-                return NotFound();
-            }
+            var manga = _context.Mangas.Find(id);
+            var anime = _context.Animes.ToList();
 
-            var manga = await _context.Mangas.FindAsync(id);
-            if (manga == null)
-            {
-                return NotFound();
-            }
-            ViewData["AnimeId"] = new SelectList(_context.Animes, "AnimeId", "AnimeId", manga.AnimeId);
-            return View(manga);
+            var model = new MangaAnimeViewModel { Animes = anime, Mangas = manga };
+            return View(model);
         }
 
         // POST: Mangas/Edit/5
@@ -92,35 +107,17 @@ namespace Anime_Streaming_Platform.Areas.Admin.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("MangaId,MangaName,MangaDesc,AnimeId")] Manga manga)
+        public async Task<IActionResult> Edit(int id, [Bind("MangaId,MangaName,MangaDesc,AnimeId")] Manga manga, MangaAnimeViewModel model)
         {
-            if (id != manga.MangaId)
-            {
-                return NotFound();
-            }
+             manga = _context.Mangas.Find(id);
+            manga.AnimeId = model.Mangas.AnimeId;
+            manga.MangaName = model.Mangas.MangaName;
+            manga.MangaDesc = model.Mangas.MangaDesc;
+  
 
-            if (ModelState.IsValid)
-            {
-                try
-                {
-                    _context.Update(manga);
-                    await _context.SaveChangesAsync();
-                }
-                catch (DbUpdateConcurrencyException)
-                {
-                    if (!MangaExists(manga.MangaId))
-                    {
-                        return NotFound();
-                    }
-                    else
-                    {
-                        throw;
-                    }
-                }
-                return RedirectToAction(nameof(Index));
-            }
-            ViewData["AnimeId"] = new SelectList(_context.Animes, "AnimeId", "AnimeId", manga.AnimeId);
-            return View(manga);
+            _context.SaveChanges();
+            return RedirectToAction("Index");
+
         }
 
         // GET: Mangas/Delete/5

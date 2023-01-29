@@ -1,0 +1,31 @@
+﻿@model Anime_Streaming_Platform.Models.Bookmark
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Dashboard.cshtml";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Bookmark</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.User)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.User.UserName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Anime)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Anime.AnimeName)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.BookmarkId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

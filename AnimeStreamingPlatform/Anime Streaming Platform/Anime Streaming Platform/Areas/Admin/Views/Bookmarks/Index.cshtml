@@ -1,0 +1,70 @@
+﻿@model IEnumerable<Anime_Streaming_Platform.Models.Bookmark>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Dashboard.cshtml";
+}
+
+<div class="container-xl">
+	<div class="table-responsive">
+		<div class="table-wrapper">
+			<div class="table-title">
+				<div class="row">
+					<div class="col-sm-6">
+						<h2>Manage <b>Bookmarks</b></h2>
+					</div>
+					<div class="col-sm-6">
+						<a href="~/Admin/Bookmarks/Create" class="btn btn-success"><i class="material-icons">&#xE147;</i> <span>Add Bookmark</span></a>
+					
+					</div>
+				</div>
+			</div>
+			<table class="table table-striped table-hover" id="table">
+				<thead>
+					<tr>
+						<th>
+							<span class="custom-checkbox">
+								<input type="checkbox" id="selectAll">
+								<label for="selectAll"></label>
+							</span>
+						</th>
+						<th>
+						@Html.DisplayNameFor(model => model.User)
+						</th>
+						<th>
+						@Html.DisplayNameFor(model => model.Anime)
+						</th>
+						<th>Actions</th>
+					</tr>
+				</thead>
+				<tbody>
+					@foreach (var item in Model) {
+					<tr>
+						<td>
+							<span class="custom-checkbox">
+								<input type="checkbox" id="checkbox1" name="options[]" value="1">
+								<label for="checkbox1"></label>
+							</span>
+						</td>
+						<td>
+						@Html.DisplayFor(modelItem => item.User.UserName)
+						</td>
+						<td>
+						@Html.DisplayFor(modelItem => item.Anime.AnimeStudio)
+						</td>
+						<td>
+							<a href="~/Admin/Bookmarks/Edit/@item.BookmarkId" class="edit"><i class="material-icons" data-toggle="tooltip" title="Edit">&#xE254;</i></a>
+							<a href="~/Admin/Bookmarks/Details/@item.BookmarkId" class="details"><i class="material-icons" data-toggle="tooltip" title="Details">&#xf05a;</i></a>
+							<a href="~/Admin/Bookmarks/Delete/@item.BookmarkId" class="delete"><i class="material-icons" data-toggle="tooltip" title="Delete">&#xE872;</i></a>
+						</td>
+					</tr>
+				}
+				</tbody>
+			</table>
+			
+		</div>
+	</div>        
+</div>
+
+

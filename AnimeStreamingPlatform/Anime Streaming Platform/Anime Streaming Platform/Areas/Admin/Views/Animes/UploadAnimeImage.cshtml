@@ -20,8 +20,12 @@
             </dd>
         </dl>
        <form method="post" asp-controller="Animes" asp-action="UploadAnimeImage" enctype="multipart/form-data">
-            <input type="file" name="image" />
-            <input type="submit" value="Upload" />
+            
+            <div class="input-group mb-3">
+            <input type="file" class="form-control" name="image">
+            <input type="submit" value="Upload" class="input-group-text" />
+            </div>
+
         </form>
 
         

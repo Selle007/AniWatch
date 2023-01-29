@@ -10203,11 +10203,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Memo\\Desktop\\New Proj - Copy\\Anime Streaming Platform\\Anime Streaming Platform\\Anime Streaming Platform.csproj",
+      "projectUniqueName": "C:\\Users\\Memo\\Desktop\\Aniwatch started 27.01\\Anime Streaming Platform\\Anime Streaming Platform\\Anime Streaming Platform.csproj",
       "projectName": "Anime Streaming Platform",
-      "projectPath": "C:\\Users\\Memo\\Desktop\\New Proj - Copy\\Anime Streaming Platform\\Anime Streaming Platform\\Anime Streaming Platform.csproj",
+      "projectPath": "C:\\Users\\Memo\\Desktop\\Aniwatch started 27.01\\Anime Streaming Platform\\Anime Streaming Platform\\Anime Streaming Platform.csproj",
       "packagesPath": "C:\\Users\\Memo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Memo\\Desktop\\New Proj - Copy\\Anime Streaming Platform\\Anime Streaming Platform\\obj\\",
+      "outputPath": "C:\\Users\\Memo\\Desktop\\Aniwatch started 27.01\\Anime Streaming Platform\\Anime Streaming Platform\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Memo\\AppData\\Roaming\\NuGet\\NuGet.Config",

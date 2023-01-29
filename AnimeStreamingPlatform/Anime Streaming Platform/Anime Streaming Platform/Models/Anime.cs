@@ -10,5 +10,7 @@ namespace Anime_Streaming_Platform.Models
         public string? AnimeDescription { get; set; }
         public string? AnimeStudio { get; set; }
         public string Image { get; set; }
+        public virtual ICollection<Bookmark> Bookmarks { get; set; }
+
     }
 }
