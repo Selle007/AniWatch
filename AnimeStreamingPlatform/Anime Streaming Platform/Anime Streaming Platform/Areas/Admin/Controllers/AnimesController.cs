@@ -181,8 +181,8 @@ namespace Anime_Streaming_Platform.Areas.Admin.Controllers
 
                 string propName = anime.AnimeName;
                 // Create user's folder if it doesn't exist
-                 string imageFolderPath = Path.Combine(Directory.GetCurrentDirectory(), "frontend", "src", "images", propName);
-                //string imageFolderPath = Path.Combine(Directory.GetCurrentDirectory(),"wwwroot", "images", propName);
+                 //string imageFolderPath = Path.Combine(Directory.GetCurrentDirectory(), "frontend", "src", "images", propName);
+                string imageFolderPath = Path.Combine(Directory.GetCurrentDirectory(),"wwwroot", "images", propName);
                 if (!Directory.Exists(imageFolderPath))
                 {
                     Directory.CreateDirectory(imageFolderPath);

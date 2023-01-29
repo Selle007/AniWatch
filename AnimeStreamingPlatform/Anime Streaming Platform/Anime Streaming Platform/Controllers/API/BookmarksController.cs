@@ -9,19 +9,22 @@ using Anime_Streaming_Platform.Data;
 using Anime_Streaming_Platform.Models;
 using System.Security.Claims;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Anime_Streaming_Platform.Controllers.API
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class BookmarksController : ControllerBase
     {
         private readonly ApplicationDbContext _context;
         private readonly UserManager<User> _userManager;
 
-        public BookmarksController(ApplicationDbContext context)
+        public BookmarksController(ApplicationDbContext context, UserManager<User> userManager)
         {
             _context = context;
+            _userManager = userManager;
         }
 
         // GET: api/Bookmarks
@@ -109,30 +112,48 @@ namespace Anime_Streaming_Platform.Controllers.API
         }
 
 
-        [HttpPost]
-        [Route("AddToBookmarks")]
-        public async Task<IActionResult> AddToBookmarks([FromBody] int animeId)
-        {
-            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
-            var user = await _userManager.FindByIdAsync(userId);
-            var anime = _context.Animes.Find(animeId);
-            var bookmark = new Bookmark
-            {
-                User = user,
-                Anime = anime
-            };
 
-            // Check if anime is already in bookmarks
-            if (_context.Bookmarks.Any(b => b.UserId == user.Id && b.AnimeId == anime.AnimeId))
+
+        [HttpPost]
+        [Route("add")]
+        public async Task<IActionResult> AddAnimeToBookmarks([FromBody] int animeId)
+        {
+            var userId = User.FindFirst(ClaimTypes.NameIdentifier).Value;
+            if (await _context.Bookmarks.AnyAsync(b => b.UserId == userId && b.AnimeId == animeId))
             {
-                return BadRequest("Anime is already in bookmarks");
+                return BadRequest("This anime is already in your bookmarks.");
             }
 
-            await _context.Bookmarks.AddAsync(bookmark);
+            var bookmark = new Bookmark
+            {
+                UserId = userId,
+                AnimeId = animeId
+            };
+            _context.Bookmarks.Add(bookmark);
             await _context.SaveChangesAsync();
 
-            return Ok("Anime added to bookmarks");
+            return Ok();
         }
+
+
+        [HttpGet]
+        [Route("list")]
+        public async Task<ActionResult<List<Anime>>> ListBookmarkedAnime()
+        {
+            var userId = User.FindFirst(ClaimTypes.NameIdentifier).Value;
+            var bookmarkedAnimeIds = await _context.Bookmarks
+                .Where(b => b.UserId == userId)
+                .Select(b => b.AnimeId)
+                .ToListAsync();
+
+            var bookmarkedAnimes = await _context.Animes
+                .Where(a => bookmarkedAnimeIds.Contains(a.AnimeId))
+                .ToListAsync();
+
+            return Ok(bookmarkedAnimes);
+        }
+
+
 
     }
 }

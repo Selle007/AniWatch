@@ -12,7 +12,8 @@ namespace AreaTest.Areas.Admin.Controllers {
     [Area("Admin")]
     //Tregon qe useri duhet te jete i kyqyr dhe te kete rolin admin ne menyre qe te kete access
     [Authorize(Roles = "Admin")]
-    public class DashboardController : Controller { 
+    public class DashboardController : Controller {
+        private readonly UserManager<IdentityRole> usermanager;
         private readonly RoleManager<IdentityRole> rolemanager;
         public DashboardController(RoleManager<IdentityRole> _roleManager) {
             rolemanager = _roleManager;
