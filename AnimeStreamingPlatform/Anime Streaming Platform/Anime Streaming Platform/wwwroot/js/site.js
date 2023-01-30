@@ -9,20 +9,24 @@ $(document).ready(function () {
         success: function (animes) {
             $.each(animes, function (index, anime) {
                 var card = `
-                        <div class="col w-25">
+                    
+                        <div class="col w-25" id="anime-card" data-anime-id="${anime.animeId}">
                             <div class="card text-bg-dark  shadow-sm border border-1 border-opacity-25 border-light">
                                 <img class="bd-placeholder-img card-img-top img-responsive mw-50" src="${anime.image}"></img>
                                 <div class="card-body d-flex flex-column justify-content-center align-items-center">
                                     <p class="card-title mt-n2 fs-4">${anime.animeName}</p>
                                     <div class="d-flex justify-content-center align-items-center">
                                         <div >
-                                            <button type="button" class="btn btn-sm btn-outline-primary">Watch Now</button>
+                                            <button onclick="watchAnime(${anime.animeId})" type="button" class="btn btn-sm btn-outline-primary" id="watchAnime">Watch Now</button>
                                             <button onclick="addBookmark(${anime.animeId})" type="button" class="btn btn-sm btn-outline-secondary"><i class="bi bi-heart"></i></button>
                                         </div>
                                     </div>
                                 </div>
                             </div>
+
                         </div>
+
+
                         `;
 
                 $("#anime-cards").append(card);
@@ -52,4 +56,9 @@ async function addBookmark(animeId) {
         console.error(error);
     }
 }
+function watchAnime(animeId) {
+
+        window.location.href = "/Animes/Watch/" + animeId;
+    }
+
 

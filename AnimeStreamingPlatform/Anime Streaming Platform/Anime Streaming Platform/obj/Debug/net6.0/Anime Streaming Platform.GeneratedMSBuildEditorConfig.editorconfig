@@ -219,24 +219,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started 29.01/Anime Streaming Platform/Anime Streaming Platform/Views/Animes/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWVzXENyZWF0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Memo/Desktop/Aniwatch started 29.01/Anime Streaming Platform/Anime Streaming Platform/Views/Animes/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWVzXERlbGV0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Memo/Desktop/Aniwatch started 29.01/Anime Streaming Platform/Anime Streaming Platform/Views/Animes/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWVzXERldGFpbHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Memo/Desktop/Aniwatch started 29.01/Anime Streaming Platform/Anime Streaming Platform/Views/Animes/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWVzXEVkaXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Memo/Desktop/Aniwatch started 29.01/Anime Streaming Platform/Anime Streaming Platform/Views/Animes/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWVzXEluZGV4LmNzaHRtbA==
+[C:/Users/Memo/Desktop/Aniwatch started 29.01/Anime Streaming Platform/Anime Streaming Platform/Views/Animes/Watch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWVzXFdhdGNoLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Memo/Desktop/Aniwatch started 29.01/Anime Streaming Platform/Anime Streaming Platform/Views/Bookmarks/Index.cshtml]

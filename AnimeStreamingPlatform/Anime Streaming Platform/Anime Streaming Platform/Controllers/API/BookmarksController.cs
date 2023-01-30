@@ -90,21 +90,7 @@ namespace Anime_Streaming_Platform.Controllers.API
             return CreatedAtAction("GetBookmark", new { id = bookmark.BookmarkId }, bookmark);
         }
 
-        // DELETE: api/Bookmarks/5
-        [HttpDelete("{id}")]
-        public async Task<IActionResult> DeleteBookmark(int id)
-        {
-            var bookmark = await _context.Bookmarks.FindAsync(id);
-            if (bookmark == null)
-            {
-                return NotFound();
-            }
 
-            _context.Bookmarks.Remove(bookmark);
-            await _context.SaveChangesAsync();
-
-            return NoContent();
-        }
 
         private bool BookmarkExists(int id)
         {
@@ -152,6 +138,25 @@ namespace Anime_Streaming_Platform.Controllers.API
 
             return Ok(bookmarkedAnimes);
         }
+
+        [HttpDelete("{animeId}")]
+        public async Task<ActionResult<Bookmark>> DeleteBookmarkByAnime(int animeId)
+        {
+            var userId = User.FindFirst(ClaimTypes.NameIdentifier).Value;
+            var bookmark = await _context.Bookmarks.SingleOrDefaultAsync(b => b.AnimeId == animeId && b.UserId == userId);
+
+            if (bookmark == null)
+            {
+                return NotFound();
+            }
+
+            _context.Bookmarks.Remove(bookmark);
+            await _context.SaveChangesAsync();
+
+            return NoContent();
+        }
+
+
 
 
 

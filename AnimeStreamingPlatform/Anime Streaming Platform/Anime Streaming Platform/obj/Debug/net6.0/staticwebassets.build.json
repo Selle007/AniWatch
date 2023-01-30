@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xQjz45HZ1xr44obXABOrKy0yl8ywqz1AXBd4Tdd5L2E=",
+  "Hash": "PHS/Vt0IcAiNbJEEhzA1eR2KQzspUOzFCRO8w9RGDg0=",
   "Source": "Anime Streaming Platform",
   "BasePath": "_content/Anime Streaming Platform",
   "Mode": "Default",
@@ -1341,6 +1341,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Anime - 8\\Anime - 8.png"
+    },
+    {
+      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started 29.01\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\js\\Anime.js",
+      "SourceId": "Anime Streaming Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started 29.01\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "BasePath": "_content/Anime Streaming Platform",
+      "RelativePath": "js/Anime.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Anime.js"
     },
     {
       "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started 29.01\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\js\\bookmark.js",

@@ -41,47 +41,18 @@ namespace Anime_Streaming_Platform.Controllers.API
 
             return anime;
         }
-
-        // PUT: api/Animes/5
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
-        [HttpPut("{id}")]
-        public async Task<IActionResult> PutAnime(int id, Anime anime)
+        [Route("api/animes/{animeId}/episodes")]
+        [HttpGet]
+        public async Task<ActionResult<List<Episode>>> GetEpisodesByAnimeId(int animeId)
         {
-            if (id != anime.AnimeId)
+            var episodes = await _context.Episodes.Where(e => e.AnimeId == animeId).ToListAsync();
+
+            if (episodes == null)
             {
-                return BadRequest();
+                return NotFound();
             }
 
-            _context.Entry(anime).State = EntityState.Modified;
-
-            try
-            {
-                await _context.SaveChangesAsync();
-            }
-            catch (DbUpdateConcurrencyException)
-            {
-                if (!AnimeExists(id))
-                {
-                    return NotFound();
-                }
-                else
-                {
-                    throw;
-                }
-            }
-
-            return NoContent();
-        }
-
-        // POST: api/Animes
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
-        [HttpPost]
-        public async Task<ActionResult<Anime>> PostAnime(Anime anime)
-        {
-            _context.Animes.Add(anime);
-            await _context.SaveChangesAsync();
-
-            return CreatedAtAction("GetAnime", new { id = anime.AnimeId }, anime);
+            return episodes;
         }
 
         // DELETE: api/Animes/5
@@ -104,5 +75,19 @@ namespace Anime_Streaming_Platform.Controllers.API
         {
             return _context.Animes.Any(e => e.AnimeId == id);
         }
+
+
+        [HttpGet("{id}/episodes")]
+        public ActionResult<List<Episode>> GetEpisodes(int id)
+        {
+            var episodes = _context.Episodes.Where(e => e.AnimeId == id).ToList();
+            if (episodes == null)
+            {
+                return NotFound();
+            }
+            return episodes;
+        }
+
+
     }
 }

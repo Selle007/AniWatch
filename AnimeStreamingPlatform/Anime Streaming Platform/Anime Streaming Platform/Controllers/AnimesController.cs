@@ -26,7 +26,7 @@ namespace Anime_Streaming_Platform.Controllers
         }
 
         // GET: Animes/Details/5
-        public async Task<IActionResult> Details(int? id)
+        public async Task<IActionResult> Watch(int? id)
         {
             if (id == null || _context.Animes == null)
             {
