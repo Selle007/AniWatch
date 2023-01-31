@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Anime Streaming Platform.props" />
+</Project>

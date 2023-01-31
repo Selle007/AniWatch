@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Memo\\Documents\\GitHub\\AniWatch\\AniWatch\\AniWatch\\AniWatch.csproj": {}
+    "C:\\Users\\LENOVO\\Documents\\GitHub\\AniWatch\\AniWatch\\AniWatch\\AniWatch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Memo\\Documents\\GitHub\\AniWatch\\AniWatch\\AniWatch\\AniWatch.csproj": {
+    "C:\\Users\\LENOVO\\Documents\\GitHub\\AniWatch\\AniWatch\\AniWatch\\AniWatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Memo\\Documents\\GitHub\\AniWatch\\AniWatch\\AniWatch\\AniWatch.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Documents\\GitHub\\AniWatch\\AniWatch\\AniWatch\\AniWatch.csproj",
         "projectName": "AniWatch",
-        "projectPath": "C:\\Users\\Memo\\Documents\\GitHub\\AniWatch\\AniWatch\\AniWatch\\AniWatch.csproj",
-        "packagesPath": "C:\\Users\\Memo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Memo\\Documents\\GitHub\\AniWatch\\AniWatch\\AniWatch\\obj\\",
+        "projectPath": "C:\\Users\\LENOVO\\Documents\\GitHub\\AniWatch\\AniWatch\\AniWatch\\AniWatch.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LENOVO\\Documents\\GitHub\\AniWatch\\AniWatch\\AniWatch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Memo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -91,7 +91,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -103,7 +104,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

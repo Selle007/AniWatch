@@ -62,3 +62,10 @@ function watchAnime(animeId) {
     }
 
 
+$(document).ready(function () {
+    $.getJSON("/api/categories", function (data) {
+        $.each(data, function (key, category) {
+            $(".dropdown-menu").append($("<a class='dropdown-item text-white'></a>").attr("href", "/categories/" + category.Id).html(category.categoryName));
+        });
+    });
+});
