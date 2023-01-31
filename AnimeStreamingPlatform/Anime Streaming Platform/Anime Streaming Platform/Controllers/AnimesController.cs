@@ -157,5 +157,14 @@ namespace Anime_Streaming_Platform.Controllers
         {
           return _context.Animes.Any(e => e.AnimeId == id);
         }
+
+
+
+        public ActionResult Search()
+        {
+            return View();
+        }
+
+
     }
 }

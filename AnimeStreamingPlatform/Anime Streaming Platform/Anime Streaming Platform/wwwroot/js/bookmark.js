@@ -15,8 +15,9 @@ $(document).ready(function () {
                                     <small>${anime.animeStudio}</small>
                                 </div>
                             </div>
-                            <div class="d-flex justify-content-center align-items-center">
-                                <button onclick="deleteBookmark(${anime.animeId})"  type="button" class="btn btn-sm btn-outline-danger">Remove Bookmark</button>
+                            <div class="d-flex justify-content-center flex-column align-items-center">
+                                <button onclick="watchAnime(${anime.animeId})" type="button" class="btn btn-sm btn-outline-primary mb-2 w-100" id="watchAnime">Watch Now</button>
+                                <button onclick="deleteBookmark(${anime.animeId})"  type="button" class="btn btn-sm btn-outline-danger w-100">Remove Bookmark</button>
                             </div>
                         </a>
                         `;
@@ -45,3 +46,5 @@ async function deleteBookmark(animeId) {
         console.error(`An error occurred while deleting bookmark with animeId ${animeId}.`);
     }
 }
+
+

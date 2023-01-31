@@ -88,6 +88,18 @@ namespace Anime_Streaming_Platform.Controllers.API
             return episodes;
         }
 
+        [HttpGet("Search")]
+        public async Task<IActionResult> Search(string query)
+        {
+            var animes = await _context.Animes
+                .Where(a => a.AnimeName.Contains(query))
+                .ToListAsync();
+
+            return Ok(animes);
+        }
+
+
+
 
     }
 }

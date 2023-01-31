@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PHS/Vt0IcAiNbJEEhzA1eR2KQzspUOzFCRO8w9RGDg0=",
+  "Hash": "pkwSmMfBzzLvzeeXlvQU9jgo/TUiUFCdJXULjpBtAvs=",
   "Source": "Anime Streaming Platform",
   "BasePath": "_content/Anime Streaming Platform",
   "Mode": "Default",
@@ -1375,6 +1375,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\bookmark.js"
+    },
+    {
+      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started 29.01\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\js\\index.js",
+      "SourceId": "Anime Streaming Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started 29.01\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "BasePath": "_content/Anime Streaming Platform",
+      "RelativePath": "js/index.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\index.js"
+    },
+    {
+      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started 29.01\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\js\\search.js",
+      "SourceId": "Anime Streaming Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started 29.01\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "BasePath": "_content/Anime Streaming Platform",
+      "RelativePath": "js/search.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\search.js"
     },
     {
       "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started 29.01\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\js\\site.js",

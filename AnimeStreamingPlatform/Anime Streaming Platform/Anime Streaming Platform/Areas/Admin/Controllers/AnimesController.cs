@@ -181,14 +181,13 @@ namespace Anime_Streaming_Platform.Areas.Admin.Controllers
 
                 string propName = anime.AnimeName;
                 // Create user's folder if it doesn't exist
-                 //string imageFolderPath = Path.Combine(Directory.GetCurrentDirectory(), "frontend", "src", "images", propName);
+
                 string imageFolderPath = Path.Combine(Directory.GetCurrentDirectory(),"wwwroot", "images", propName);
                 if (!Directory.Exists(imageFolderPath))
                 {
                     Directory.CreateDirectory(imageFolderPath);
                 }
-               // string sourcePath = Path.Combine(Directory.GetCurrentDirectory(), "New Proj", "Anime Streaming Platform", "Anime Streaming Platform","wwwroot", "images");
-              //  string destinationPath = Path.Combine(Directory.GetCurrentDirectory(), "frontend", "src", "images");
+
 
 
                 // Save image to user's folder

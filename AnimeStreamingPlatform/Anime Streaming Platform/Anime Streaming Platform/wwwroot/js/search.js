@@ -1,10 +1,13 @@
-﻿// Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+﻿$(document).ready(function () {
+    var urlParams = new URLSearchParams(window.location.search);
 
-// Write your JavaScript code.
-$(document).ready(function () {
+
+    const url = document.URL;
+    const strs = url.split('/');
+    const searchInput = strs.at(-1)
+    console.log(searchInput)
     $.ajax({
-        url: "/api/Animes",
+        url: "/api/Animes/" + searchInput,
         type: "GET",
         success: function (animes) {
             $.each(animes, function (index, anime) {
@@ -37,5 +40,4 @@ $(document).ready(function () {
         }
     });
 });
-
 
