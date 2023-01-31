@@ -104,5 +104,17 @@ namespace Anime_Streaming_Platform.Controllers.API
         {
             return _context.Categories.Any(e => e.CategoryId == id);
         }
+
+        [HttpGet("animecategory/{id}")]
+
+        public async Task<IActionResult> GetAnimeByCategory(int id)
+        {
+            var animes = await _context.AnimeCategories
+                .Where(ac => ac.CategoryId == id)
+                .Select(ac => ac.Anime)
+                .ToListAsync();
+
+            return Ok(animes);
+        }
     }
 }

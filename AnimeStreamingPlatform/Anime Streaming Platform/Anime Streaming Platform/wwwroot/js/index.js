@@ -17,15 +17,18 @@
 }
 
 function watchAnime(animeId) {
-
     window.location.href = "/Animes/Watch/" + animeId;
+}
+
+function openCategory(categoryId) {
+    window.location.href = "/Categories/AllCategories/" + categoryId;
 }
 
 
 $(document).ready(function () {
     $.getJSON("/api/categories", function (data) {
         $.each(data, function (key, category) {
-            $("#category").append($("<a class='dropdown-item text-white'></a>").attr("href", "/categories/" + category.Id).html(category.categoryName));
+            $("#category").append($("<a class='dropdown-item text-white' ></a>").attr("href", "/Categories/AllCategories/" + category.categoryId ).html(category.categoryName));
         });
     });
 });

@@ -1,0 +1,21 @@
+﻿
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "AllCategories";
+    Layout = "~/Views/Shared/_HomeLayout.cshtml";
+}
+
+
+  <div class="album py-5 bg-dark">
+    <div class="container mv">
+
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3" id="anime-cards">
+          <!--THe code is called from the site.js where the methods are for calling from the api-->
+      </div>
+
+    </div>
+  </div>
+
+  
+
+      <script src="~/js/category.js" asp-append-version="true"></script>
