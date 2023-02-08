@@ -58,16 +58,36 @@ namespace Anime_Streaming_Platform.Areas.Admin.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("EpisodeId,EpisodeNumber,EpisodeTitle,EpisodeUrl,AnimeId")] Episode episode)
+        public async Task<IActionResult> Create([Bind("EpisodeId,EpisodeNumber,EpisodeTitle,EpisodeUrl,AnimeId")] Episode episode, IFormFile video)
         {
-            if (ModelState.IsValid)
+
+            var anime = _context.Animes.FirstOrDefault(m => m.AnimeId == episode.AnimeId);
+
+            string propName = anime.AnimeName;
+            string videoFolderPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "images", propName);
+            if (!Directory.Exists(videoFolderPath))
             {
-                _context.Add(episode);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                Directory.CreateDirectory(videoFolderPath);
             }
+
+            string fileName = "Episode" + episode.EpisodeNumber + ".mp4";
+            string filePath = Path.Combine(videoFolderPath, fileName);
+            string dbFilePath = "../../images/" + propName + "/" + fileName;
+
+            using (var stream = new FileStream(filePath, FileMode.Create))
+            {
+                video.CopyTo(stream);
+            }
+
+            // Save image path to database
+
+            episode.EpisodeUrl = dbFilePath;
+
+            _context.Add(episode);
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
+
             ViewData["AnimeId"] = new SelectList(_context.Animes, "AnimeId", "AnimeId", episode.AnimeId);
-            return View(episode);
         }
 
         // GET: Episodes/Edit/5
@@ -156,14 +176,14 @@ namespace Anime_Streaming_Platform.Areas.Admin.Controllers
             {
                 _context.Episodes.Remove(episode);
             }
-            
+
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
         private bool EpisodeExists(int id)
         {
-          return _context.Episodes.Any(e => e.EpisodeId == id);
+            return _context.Episodes.Any(e => e.EpisodeId == id);
         }
     }
 }

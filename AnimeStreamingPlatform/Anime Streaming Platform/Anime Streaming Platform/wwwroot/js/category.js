@@ -34,3 +34,15 @@
         }
     });
 });
+
+function example() {
+    console.log("The function just got executed!");
+}
+
+function watchAnime(animeId) {
+    fetch('/api/Animes/' + animeId + '/firstEpisode')
+        .then(response => response.json())
+        .then(response => {
+            window.location.href = "/Episodes/Episode/" + response.episodeId;
+        });
+}

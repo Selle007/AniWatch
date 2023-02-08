@@ -41,6 +41,7 @@ namespace Anime_Streaming_Platform.Controllers.API
 
             return anime;
         }
+        /*
         [Route("api/animes/{animeId}/episodes")]
         [HttpGet]
         public async Task<ActionResult<List<Episode>>> GetEpisodesByAnimeId(int animeId)
@@ -54,6 +55,7 @@ namespace Anime_Streaming_Platform.Controllers.API
 
             return episodes;
         }
+        */
 
         // DELETE: api/Animes/5
         [HttpDelete("{id}")]
@@ -96,6 +98,28 @@ namespace Anime_Streaming_Platform.Controllers.API
                 .ToListAsync();
 
             return Ok(animes);
+        }
+
+        [HttpGet("{id}/firstEpisode")]
+        public ActionResult<Episode> GetFirstEpisode(int id)
+        {
+            var episode = _context.Episodes.Where(e => e.AnimeId == id).FirstOrDefault();
+            if (episode == null)
+            {
+                return NotFound();
+            }
+            return episode;
+        }
+
+        [HttpGet("{id}/episodeById")]
+        public ActionResult<Episode> GetEpisodeById(int id)
+        {
+            var episode = _context.Episodes.FirstOrDefault(e => e.EpisodeId == id);
+            if (episode == null)
+            {
+                return NotFound();
+            }
+            return episode;
         }
 
 

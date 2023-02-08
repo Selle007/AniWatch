@@ -52,15 +52,26 @@ namespace Anime_Streaming_Platform.Areas.Admin.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("AnimeId,AnimeName,AnimeDescription,AnimeStudio,Image")] Anime anime)
+        public async Task<IActionResult> Create([Bind("AnimeId,AnimeName,AnimeDescription,AnimeStudio,Image")] Anime anime, IFormFile image)
         {
-            if (ModelState.IsValid)
+            string propName = anime.AnimeName;
+            string imageFolderPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "images", propName);
+            if (!Directory.Exists(imageFolderPath))
             {
-                _context.Add(anime);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                Directory.CreateDirectory(imageFolderPath);
             }
-            return View(anime);
+            string fileName = propName + ".png";
+            string filePath = Path.Combine(imageFolderPath, fileName);
+            string dbFilePath = "../images/" + propName + "/" + fileName;
+            using (var stream = new FileStream(filePath, FileMode.Create))
+            {
+                image.CopyTo(stream);
+            }
+            // Save image path to database
+            anime.Image = dbFilePath;
+            _context.Add(anime);
+            await _context.SaveChangesAsync();
+            return RedirectToAction("Index");
         }
 
         // GET: Admin/Animes/Edit/5

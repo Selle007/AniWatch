@@ -17,7 +17,11 @@
 }
 
 function watchAnime(animeId) {
-    window.location.href = "/Animes/Watch/" + animeId;
+    fetch('/api/Animes/' + animeId + '/firstEpisode')
+        .then(response => response.json())
+        .then(response => {
+            window.location.href = "/Episodes/Episode/" + response.episodeId;
+        });
 }
 
 function openCategory(categoryId) {

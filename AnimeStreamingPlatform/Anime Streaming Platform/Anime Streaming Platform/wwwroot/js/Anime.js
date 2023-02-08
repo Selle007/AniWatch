@@ -4,63 +4,51 @@
 
     const url = document.URL;
     const strs = url.split('/');
-    const animeId = strs.at(-1)
-    console.log(animeId)
-    if (animeId) {
-        fetch('/api/Animes/' + animeId)
-            .then(response => response.json())
-            .then(animeDetails => {
-                // Build up the HTML using template literals
-                var code = `
-                    <h2 style="color:#fff;">${animeDetails.animeName}</h2>
-                    <p style="color:#fff;">${animeDetails.animeDescription}</p>
-                `;
+    const episodeId = strs.at(-1)
+    console.log(episodeId)
+    if (episodeId) {
 
-                // Update the HTML with the anime details
+        fetch('/api/Animes/' + episodeId+ '/episodeById'  )
+            .then(response => response.json())
+            .then(response => {
+                //window.location.href = "/Animes/Watch/" + response.episodeId;
+                console.log(response);
+                var code = `
+<br><br>
+                <video style="width:100vh" controls>
+                  <source src="${response.episodeUrl}" type="video/mp4">
+                  Your browser does not support the video tag.
+                    
+                </video><br><br><br><br>
+                `;
                 $('#anime-details').html(code);
+
+                fetch('/api/Animes/' + response.animeId + '/episodes')
+                    .then(response => response.json())
+                    .then(episodeDetails => {
+                        console.log(episodeDetails);
+
+                        // Build up the HTML using template literals
+                        $.each(episodeDetails, function (index, episodeDetail) {
+                            code = code + `
+                            <button onclick="watchEpisode(${episodeDetail.episodeId})" type="button" class="btn btn-sm btn-outline-primary" id="watchAnime">${episodeDetail.episodeNumber}</button>
+                         
+                        `;
+
+
+
+                        });
+                        // Update the HTML with the anime details
+                        $('#anime-details').html(code);
+                    });
             });
+
+
     }
 });
 
-$(document).ready(function () {
-    var urlParams = new URLSearchParams(window.location.search);
+function watchEpisode(episodeId) {
 
+    window.location.href = "/Episodes/Episode/" + episodeId;
 
-    const url = document.URL;
-    const strs = url.split('/');
-    const animeId = strs.at(-1)
-    console.log(animeId)
-    $.ajax({
-        url: "/api/Animes/" +animeId + "/episodes",
-        type: "GET",
-        success: function (episodes) {
-            $.each(episodes, function (index, episode) {
-                var card = `
-                    
-                        <div class="col w-25" id="anime-card" data-anime-id="${episode.episodeNumber}">
-                            <div class="card text-bg-dark  shadow-sm border border-1 border-opacity-25 border-light">
-                                <img class="bd-placeholder-img card-img-top img-responsive mw-50" src="${episode.episodeTitle}"></img>
-                                <div class="card-body d-flex flex-column justify-content-center align-items-center">
-                                    <p class="card-title mt-n2 fs-4">${anime.animeName}</p>
-                                    <div class="d-flex justify-content-center align-items-center">
-                                        <div >
-                                            <button onclick="watchAnime(${anime.animeId})" type="button" class="btn btn-sm btn-outline-primary" id="watchAnime">Watch Now</button>
-                                            <button onclick="addBookmark(${anime.animeId})" type="button" class="btn btn-sm btn-outline-secondary"><i class="bi bi-heart"></i></button>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-
-
-                        `;
-
-                $("#episodes-list").append(card);
-            });
-        },
-        error: function () {
-            console.error("An error occurred while retrieving anime data.");
-        }
-    });
-});
+}
