@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/c7yfCtAKFAzYEBZ7Iw3vhszZVJFsfBKMgLbxU0y8qE=",
+  "Hash": "CA5bmUNAEkUv3/jktAo4y/ccZHqBoYiYdxAXNwtayek=",
   "Source": "Anime Streaming Platform",
   "BasePath": "_content/Anime Streaming Platform",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "Anime Streaming Platform\\wwwroot",
       "Source": "Anime Streaming Platform",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "Pattern": "**"
     }
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "C:\\Users\\Memo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.13\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Anime Streaming Platform.styles.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Anime Streaming Platform.styles.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "Anime Streaming Platform.styles.css",
       "AssetKind": "All",
@@ -1051,13 +1051,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Anime Streaming Platform.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Anime Streaming Platform.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Anime Streaming Platform.bundle.scp.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Anime Streaming Platform.bundle.scp.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "Anime Streaming Platform.bundle.scp.css",
       "AssetKind": "All",
@@ -1068,13 +1068,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Anime Streaming Platform.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Anime Streaming Platform.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\css\\sign-in.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\css\\sign-in.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "css/sign-in.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\css\\sign-in.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\css\\site.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\favicon.ico",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 1\\Anime - 1.png",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 1\\Anime - 1.png",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "images/Anime - 1/Anime - 1.png",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Anime - 1\\Anime - 1.png"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 1\\Episode1.mp4",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 1\\Episode1.mp4",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "images/Anime - 1/Episode1.mp4",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Anime - 1\\Episode1.mp4"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 1\\Episode2.mp4",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 1\\Episode2.mp4",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "images/Anime - 1/Episode2.mp4",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Anime - 1\\Episode2.mp4"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 100\\Anime - 100",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 100\\Anime - 100",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "images/Anime - 100/Anime - 100",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Anime - 100\\Anime - 100"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 2\\Anime - 2.png",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 2\\Anime - 2.png",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "images/Anime - 2/Anime - 2.png",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Anime - 2\\Anime - 2.png"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 2\\Episode1.mp4",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 2\\Episode1.mp4",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "images/Anime - 2/Episode1.mp4",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Anime - 2\\Episode1.mp4"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 2\\Episode2.mp4",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 2\\Episode2.mp4",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "images/Anime - 2/Episode2.mp4",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Anime - 2\\Episode2.mp4"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 3\\Anime - 3.png",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 3\\Anime - 3.png",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "images/Anime - 3/Anime - 3.png",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Anime - 3\\Anime - 3.png"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 3\\Episode1.mp4",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 3\\Episode1.mp4",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "images/Anime - 3/Episode1.mp4",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Anime - 3\\Episode1.mp4"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 4\\Anime - 4.png",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 4\\Anime - 4.png",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "images/Anime - 4/Anime - 4.png",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Anime - 4\\Anime - 4.png"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 5\\Anime - 5.png",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 5\\Anime - 5.png",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "images/Anime - 5/Anime - 5.png",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Anime - 5\\Anime - 5.png"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 6\\Anime - 6.jpg",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 6\\Anime - 6.jpg",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "images/Anime - 6/Anime - 6.jpg",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Anime - 6\\Anime - 6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 6\\Anime - 6.png",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 6\\Anime - 6.png",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "images/Anime - 6/Anime - 6.png",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Anime - 6\\Anime - 6.png"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 6\\Anime - 6.svg",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 6\\Anime - 6.svg",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "images/Anime - 6/Anime - 6.svg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Anime - 6\\Anime - 6.svg"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 7\\Anime - 7.jpg",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 7\\Anime - 7.jpg",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "images/Anime - 7/Anime - 7.jpg",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Anime - 7\\Anime - 7.jpg"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 7\\Anime - 7.png",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 7\\Anime - 7.png",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "images/Anime - 7/Anime - 7.png",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Anime - 7\\Anime - 7.png"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 8\\20221109_224241.jpg",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 8\\20221109_224241.jpg",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "images/Anime - 8/20221109_224241.jpg",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Anime - 8\\20221109_224241.jpg"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 8\\Anime - 8.png",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\images\\Anime - 8\\Anime - 8.png",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "images/Anime - 8/Anime - 8.png",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Anime - 8\\Anime - 8.png"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\js\\Anime.js",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\js\\Anime.js",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "js/Anime.js",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Anime.js"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\js\\bookmark.js",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\js\\bookmark.js",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "js/bookmark.js",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bookmark.js"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\js\\category.js",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\js\\category.js",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "js/category.js",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\js\\category.js"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\js\\index.js",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\js\\index.js",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "js/index.js",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\js\\index.js"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\js\\search.js",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\js\\search.js",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "js/search.js",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\js\\search.js"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\js\\site.js",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\js\\table.js",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\js\\table.js",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "js/table.js",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\js\\table.js"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/css/bootstrap.css",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap.css.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap.min.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap.min.css.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap.rtl.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap.rtl.css.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap.rtl.min.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-grid.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-grid.css.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-grid.min.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-reboot.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-reboot.css.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-reboot.min.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-utilities.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-utilities.css.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-utilities.min.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\js\\bootstrap.bundle.js",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\js\\bootstrap.bundle.js.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\js\\bootstrap.bundle.min.js",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\js\\bootstrap.esm.js",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\js\\bootstrap.esm.js.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\js\\bootstrap.esm.min.js",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\js\\bootstrap.js",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/js/bootstrap.js",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\js\\bootstrap.js.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\js\\bootstrap.min.js",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootnew\\js\\bootstrap.min.js.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootnew/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootnew\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2941,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2958,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2975,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2992,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -3009,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -3026,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -3043,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -3060,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -3077,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -3094,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -3111,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -3128,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -3145,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -3162,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -3179,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -3196,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -3213,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -3230,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Anime Streaming Platform",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\wwwroot\\",
       "BasePath": "_content/Anime Streaming Platform",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

@@ -8,6 +8,7 @@ $(document).ready(function () {
         type: "GET",
         success: function (animes) {
             $.each(animes, function (index, anime) {
+                console.log(anime)
                 var card = `
                     
                         <div class="col " id="anime-card" style="width:220px; padding-left:25px;" data-anime-id="${anime.animeId}">
@@ -38,3 +39,7 @@ $(document).ready(function () {
     });
 });
 
+$(".nav-link").on("click", function () {
+    $(".nav-link").removeClass("active");
+    $(this).addClass("active");
+});

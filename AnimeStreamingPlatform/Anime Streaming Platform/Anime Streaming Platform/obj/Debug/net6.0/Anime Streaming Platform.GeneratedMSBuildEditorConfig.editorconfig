@@ -8,281 +8,333 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Anime_Streaming_Platform
 build_property.RootNamespace = Anime_Streaming_Platform
-build_property.ProjectDir = C:\Users\Memo\Desktop\Aniwatch started current version\Anime Streaming Platform\Anime Streaming Platform\
+build_property.ProjectDir = C:\Users\Memo\Desktop\current\Anime Streaming Platform\Anime Streaming Platform\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Memo\Desktop\Aniwatch started current version\Anime Streaming Platform\Anime Streaming Platform
+build_property.MSBuildProjectDirectory = C:\Users\Memo\Desktop\current\Anime Streaming Platform\Anime Streaming Platform
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/AnimeCategories/Create.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/AnimeCategories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQW5pbWVDYXRlZ29yaWVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/AnimeCategories/Delete.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/AnimeCategories/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQW5pbWVDYXRlZ29yaWVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/AnimeCategories/Details.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/AnimeCategories/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQW5pbWVDYXRlZ29yaWVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/AnimeCategories/Edit.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/AnimeCategories/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQW5pbWVDYXRlZ29yaWVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/AnimeCategories/Index.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/AnimeCategories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQW5pbWVDYXRlZ29yaWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Animes/Create.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Animes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQW5pbWVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Animes/Delete.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Animes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQW5pbWVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Animes/Details.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Animes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQW5pbWVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Animes/Edit.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Animes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQW5pbWVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Animes/Index.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Animes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQW5pbWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Animes/UploadAnimeImage.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Animes/UploadAnimeImage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQW5pbWVzXFVwbG9hZEFuaW1lSW1hZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Bookmarks/Create.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Bookmarks/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQm9va21hcmtzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Bookmarks/Delete.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Bookmarks/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQm9va21hcmtzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Bookmarks/Details.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Bookmarks/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQm9va21hcmtzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Bookmarks/Edit.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Bookmarks/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQm9va21hcmtzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Bookmarks/Index.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Bookmarks/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQm9va21hcmtzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Categories/Create.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Categories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Categories/Delete.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Categories/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Categories/Details.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Categories/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Categories/Edit.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Categories/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Categories/Index.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Categories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Dashboard/CreateRole.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Dashboard/CreateRole.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGFzaGJvYXJkXENyZWF0ZVJvbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Dashboard/Index.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Dashboard/Privacy.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Dashboard/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGFzaGJvYXJkXFByaXZhY3kuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Dashboard/Test.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Dashboard/Test.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGFzaGJvYXJkXFRlc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Episodes/Create.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Episodes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRXBpc29kZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Episodes/Delete.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Episodes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRXBpc29kZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Episodes/Details.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Episodes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRXBpc29kZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Episodes/Edit.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Episodes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRXBpc29kZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Episodes/Index.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Episodes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRXBpc29kZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/MangaChapters/Create.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/MangaChapters/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFuZ2FDaGFwdGVyc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/MangaChapters/Delete.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/MangaChapters/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFuZ2FDaGFwdGVyc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/MangaChapters/Details.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/MangaChapters/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFuZ2FDaGFwdGVyc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/MangaChapters/Edit.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/MangaChapters/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFuZ2FDaGFwdGVyc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/MangaChapters/Index.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/MangaChapters/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFuZ2FDaGFwdGVyc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Mangas/Create.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Mangas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFuZ2FzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Mangas/Delete.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Mangas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFuZ2FzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Mangas/Details.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Mangas/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFuZ2FzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Mangas/Edit.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Mangas/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFuZ2FzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Mangas/Index.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Mangas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFuZ2FzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Mangas/UploadMangaImage.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Mangas/UploadMangaImage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFuZ2FzXFVwbG9hZE1hbmdhSW1hZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Identity/Pages/Account/Login.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Roles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Roles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Roles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Roles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/UserRoles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclJvbGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/UserRoles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclJvbGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/UserRoles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclJvbGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/UserRoles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclJvbGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/UserRoles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclJvbGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Admin/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Identity/Pages/Account/Logout.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Identity/Pages/Account/Register.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Identity/Pages/_ViewImports.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Views/Animes/Search.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Views/Animes/Search.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWVzXFNlYXJjaC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Views/Animes/Watch.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Views/Animes/Watch.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWVzXFdhdGNoLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Views/Bookmarks/Index.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Views/Bookmarks/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va21hcmtzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Views/Categories/AllCategories.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Views/Categories/AllCategories.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xBbGxDYXRlZ29yaWVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Views/Episodes/Episode.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Views/Episodes/Episode.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXBpc29kZXNcRXBpc29kZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Views/Home/BookmarkPage.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Views/Home/BookmarkPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCb29rbWFya1BhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Views/Home/Index.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Views/Home/Privacy.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Views/Shared/Error.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Views/Shared/_LogoutPartial.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Views/Shared/_LogoutPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dvdXRQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Views/_ViewImports.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Views/_ViewStart.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Views/Shared/_Dashboard.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Views/Shared/_Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EYXNoYm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-k62m4f6p34
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Views/Shared/_HomeLayout.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Views/Shared/_HomeLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ib21lTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = b-y737emjlvz
 
-[C:/Users/Memo/Desktop/Aniwatch started current version/Anime Streaming Platform/Anime Streaming Platform/Views/Shared/_Layout.cshtml]
+[C:/Users/Memo/Desktop/current/Anime Streaming Platform/Anime Streaming Platform/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-4ntef1gtff

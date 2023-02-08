@@ -1,0 +1,23 @@
+﻿@using Anime_Streaming_Platform.Models.ViewModels
+@model UserRolesViewModel
+
+@{
+    ViewData["Title"] = "User Details";
+    Layout = "~/Views/Shared/_Dashboard.cshtml";
+}
+
+<h2>User Details</h2>
+
+<hr/>
+
+<div class="form-group">
+    <label asp-for="UserName">UserName</label>
+    <label class="form-control-plaintext">@Model.UserName</label>
+</div>
+
+<div class="form-group">
+    <label asp-for="Role">Role</label>
+    <label class="form-control-plaintext">@Model.RoleName</label>
+</div>
+
+<a href="~/Admin/UserRoles/Index">Back to List</a>

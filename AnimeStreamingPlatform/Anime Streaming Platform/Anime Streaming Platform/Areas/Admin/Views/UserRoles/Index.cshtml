@@ -1,0 +1,51 @@
+﻿@using Anime_Streaming_Platform.Models.ViewModels
+@model IEnumerable<UserRolesViewModel>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "Index";
+	Layout = "~/Views/Shared/_Dashboard.cshtml";
+}
+
+<div class="container-xl">
+	<div class="table-responsive">
+		<div class="table-wrapper">
+			<div class="table-title">
+				<div class="row">
+					<div class="col-sm-6">
+						<h2>Manage <b>User Roles</b></h2>
+					</div>
+					<div class="col-sm-6">
+						<a href="~/Admin/UserRoles/Create" class="btn btn-success"><i class="material-icons">&#xE147;</i> <span>Create User Role</span></a>
+					
+					</div>
+				</div>
+			</div>
+			
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>User Name</th>
+                        <th style="width:400px;">Role</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.UserName</td>
+                            <td>@item.RoleName</td>
+                            <td>
+                                <a href="~/Admin/UserRoles/Edit/@item.UserId" class="edit"><i class="material-icons" data-toggle="tooltip" title="Edit">&#xE254;</i></a>
+							    <a href="~/Admin/UserRoles/Details/@item.UserId" class="details"><i class="material-icons" data-toggle="tooltip" title="Details">&#xf05a;</i></a>
+							    <a href="~/Admin/UserRoles/Delete/@item.UserId" class="delete"><i class="material-icons" data-toggle="tooltip" title="Delete">&#xE872;</i></a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+			
+		</div>
+	</div>        
+</div>
+

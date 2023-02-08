@@ -7,7 +7,6 @@
 
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/Anime_Streaming_Platform.styles.css" asp-append-version="true" />
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
     <link href="~/lib/bootnew/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
@@ -46,30 +45,39 @@
     <hr>
     <ul class="nav nav-pills flex-column mb-auto">
       <li class="nav-item">
-        <a href="/" class="nav-link" aria-current="page">Home</a>
+        <a href="/" class="nav-link">Home</a>
       </li>
-      <li>
+      <li class="nav-item">
         <a href="/Admin/Dashboard/Index" class="nav-link text-white">Dashboard</a>
       </li>
-      <li>
+      <li class="nav-item">
+        <a href="/Admin/Users/Index" class="nav-link text-white">Users</a>
+      </li>
+      <li class="nav-item">
+        <a href="/Admin/Roles/Index" class="nav-link text-white">Roles</a>
+      </li>
+      <li class="nav-item">
+        <a href="/Admin/UserRoles/Index" class="nav-link text-white">User Roles</a>
+      </li>
+      <li class="nav-item">
         <a href="/Admin/Bookmarks/Index" class="nav-link text-white">Bookmarks</a>
       </li>
-      <li>
+      <li class="nav-item">
         <a href="/Admin/Animes/Index" class="nav-link text-white">Anime</a>
       </li>
-      <li>
+      <li class="nav-item">
         <a href="/Admin/Mangas/Index" class="nav-link text-white">Manga</a>
       </li>
-      <li>
+      <li class="nav-item">
         <a href="/Admin/Categories/Index" class="nav-link text-white">Category</a>
       </li>
-      <li>
+      <li class="nav-item">
         <a href="/Admin/AnimeCategories/Index" class="nav-link text-white">Anime Category</a>
       </li>
-      <li>
+      <li class="nav-item">
         <a href="/Admin/Episodes/Index" class="nav-link text-white">Anime Episodes</a>
       </li>
-      <li>
+      <li class="nav-item">
         <a href="/Admin/MangaChapters/Index" class="nav-link text-white">Manga Chapters</a>
       </li>
     </ul>
@@ -78,10 +86,6 @@
 
         <partial name="_LogoutPartial" />
 
-      <ul class="dropdown-menu dropdown-menu-dark text-small shadow">
-        <li><a class="dropdown-item" href="#">Profile</a></li>
-        <li><a class="dropdown-item" href="#">Sign out</a></li>
-      </ul>
     </div>
   </div>
 
@@ -94,10 +98,7 @@
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script type="text/javascript" src="~/lib/mdb/js/jquery.min.js"></script>
-    <script type="text/javascript" src="~/lib/mdb/js/popper.min.js"></script>
-    <script type="text/javascript" src="~/lib/mdb/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="~/lib/mdb/js/mdb.min.js"></script>
+
     <script src="~/js/site.js" asp-append-version="true"></script>
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.13.1/datatables.min.css"/>
     <script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.13.1/datatables.min.js"></script>

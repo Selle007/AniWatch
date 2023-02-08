@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UsKILwVKuuwdFc21k+U9znxVa4j8EKM/Lc9lqw5FpKAjBDg3gb5Reakebge6DgeHxrWMTK7e+1njGBSN3JWrhg==",
+  "dgSpecHash": "GascpbapeMDBYWF+Xi39yY/P0kNorlLdY8LlW28Yx1WxDbkoXKuvGwnaB1AmXuQcb6NLiPxMbmTuh/4VmQ/4rw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Memo\\Desktop\\Aniwatch started current version\\Anime Streaming Platform\\Anime Streaming Platform\\Anime Streaming Platform.csproj",
+  "projectFilePath": "C:\\Users\\Memo\\Desktop\\current\\Anime Streaming Platform\\Anime Streaming Platform\\Anime Streaming Platform.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Memo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Memo\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

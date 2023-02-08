@@ -19,7 +19,7 @@
                   <source src="${response.episodeUrl}" type="video/mp4">
                   Your browser does not support the video tag.
                     
-                </video><br><br><br><br>
+                </video><br><br>
                 `;
                 $('#anime-details').html(code);
 
@@ -31,7 +31,10 @@
                         // Build up the HTML using template literals
                         $.each(episodeDetails, function (index, episodeDetail) {
                             code = code + `
-                            <button onclick="watchEpisode(${episodeDetail.episodeId})" type="button" class="btn btn-sm btn-outline-primary" id="watchAnime">${episodeDetail.episodeNumber}</button>
+                            
+                              <button onclick="watchEpisode(${episodeDetail.episodeId})" type="button" class="btn btn-outline-primary" id="watchAnime" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem; width:60px;" >${episodeDetail.episodeNumber}</button>
+                            
+                            
                          
                         `;
 

@@ -1,0 +1,32 @@
+﻿@using Anime_Streaming_Platform.Models.ViewModels
+@model UserRolesViewModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Dashboard.cshtml";
+}
+  
+<h1>Create</h1>
+
+<h4>User</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="UserId"></label>
+                <select asp-for="UserId" asp-items="ViewBag.Users"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="RoleName"></label>
+                <select asp-for="RoleName" asp-items="ViewBag.Roles"></select>
+            </div>
+            <button type="submit" class="btn btn-primary">Save</button>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
